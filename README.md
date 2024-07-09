@@ -22,8 +22,9 @@ The Password Manager is a secure, user-friendly application built using Python a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/god-level-password-manager.git
-    cd god-level-password-manager
+    git clone https://github.com/Venky2703/Password-Manager.git
+    cd Password-Manager
+
     ```
 
 2. Install the required packages:
